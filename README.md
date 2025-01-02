@@ -4,7 +4,7 @@
 
 ## Education
 - Engineering degree, Mathematics, modelisation and statistics | INSA Toulouse, FR (_July 2015_)								       		
-- M.S., Finance and modelisation | University of Leicester, UK (January 2014_)	 			        		
+- M.S., Finance and modelisation | University of Leicester, UK (_January 2014_)	 			        		
 
 ## Work Experience
 **Senior Data Scientist @ SOPHiA GENETICS (_April 2021 - Present_)**
